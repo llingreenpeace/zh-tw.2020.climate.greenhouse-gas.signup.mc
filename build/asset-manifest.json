@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/css/main.6e060232.chunk.css",
+    "main.js": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/main.a9d0f10f.chunk.js",
+    "main.js.map": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/main.a9d0f10f.chunk.js.map",
+    "runtime-main.js": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/runtime-main.a0a56015.js",
+    "runtime-main.js.map": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/runtime-main.a0a56015.js.map",
+    "static/js/2.979d2558.chunk.js": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/2.979d2558.chunk.js",
+    "static/js/2.979d2558.chunk.js.map": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/2.979d2558.chunk.js.map",
+    "index.html": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/index.html",
+    "precache-manifest.3620d870012fa337aff7c6fa1be7326e.js": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/precache-manifest.3620d870012fa337aff7c6fa1be7326e.js",
+    "service-worker.js": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/service-worker.js",
+    "static/css/main.6e060232.chunk.css.map": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/css/main.6e060232.chunk.css.map",
+    "static/js/2.979d2558.chunk.js.LICENSE.txt": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/2.979d2558.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0a56015.js",
+    "static/js/2.979d2558.chunk.js",
+    "static/css/main.6e060232.chunk.css",
+    "static/js/main.a9d0f10f.chunk.js"
+  ]
+}
