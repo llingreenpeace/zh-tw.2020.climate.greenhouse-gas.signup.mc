@@ -93,12 +93,7 @@ function initForm () {
 			$('#mc-form [name="FirstName"]').val($('#fake_supporter_firstName').val());
 			$('#mc-form [name="LastName"]').val($('#fake_supporter_lastName').val());
 			$('#mc-form [name="Email"]').val($('#fake_supporter_emailAddress').val());
-
-			if (!$('#fake_supporter_phone').prop('required') && !$('#fake_supporter_phone').val()) {
-			 	$('#mc-form [name="MobilePhone"]').val('0900000000');
-			} else {
-			 	$('#mc-form [name="MobilePhone"]').val($('#fake_supporter_phone').val());
-			}
+            $('#mc-form [name="MobilePhone"]').val($('#fake_supporter_phone').val());
 			$('#mc-form [name="Birthdate"]').val($('#fake_supporter_birthYear').val());
 			
 			$('#mc-form [name="OptIn"]').eq(0).prop("checked", $('#fake_optin').prop('checked')); 
