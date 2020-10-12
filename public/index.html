@@ -70,6 +70,12 @@
     Pace.on('done', function () {
       console.log('pace done')
     });
+
+    var dataLayer = window.dataLayer = window.dataLayer || [];
+    dataLayer.push({
+        'gCampaign' : 'climate',
+        'gBasket' : 'greenhouse-gas'
+    });
   </script>
   <!-- Google Tag Manager-->
   <script>
