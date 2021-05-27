@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49dc65b95efb68121aad19338bd028c8",
+    "revision": "83a062762b39c539115cb6d1791d397f",
     "url": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/index.html"
   },
   {
-    "revision": "51d760aacc682362c660",
+    "revision": "3a0e897f45458e89960b",
     "url": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/css/main.6e060232.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/2.979d2558.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51d760aacc682362c660",
-    "url": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/main.7ddd29bc.chunk.js"
+    "revision": "3a0e897f45458e89960b",
+    "url": "https://change.greenpeace.org.tw/2020/petition/zh-TW.2020.climate.greenhouse-gas.signup.mc/static/js/main.70652bae.chunk.js"
   },
   {
     "revision": "3997b13ebf23ae8ff821",

@@ -32,7 +32,7 @@ function createYearOptions() {
 
     $("#fake_supporter_birthYear").append(`<option value="">出生年份</option>`);
     
-    for (var i = 0; i < 80; i++) {
+    for (var i = 0; i < 100; i++) {
         let option = `<option value="${currYear-i}-01-01">${currYear-i}</option>`
 
         $("#fake_supporter_birthYear").append(option);
@@ -66,10 +66,11 @@ function initForm () {
         function (value, element) {
             
             const phoneReg6 = new RegExp(/^(0|886|\+886)?(9\d{8})$/).test(value);
-			const phoneReg7 = new RegExp(/^(0|886|\+886){1}[2-8]-?\d{6,8}$/).test(value);
+            const phoneReg7 = new RegExp(/^(0|886|\+886){1}[3-8]-?\d{6,8}$/).test(value);
+            const phoneReg8 = new RegExp(/^(0|886|\+886){1}[2]-?\d{8}$/).test(value);
 
             if ($('#fake_supporter_phone').val()) {
-                return (phoneReg6 || phoneReg7)
+                return (phoneReg6 || phoneReg7 || phoneReg8)
             }
             //console.log('phone testing')
             return true
